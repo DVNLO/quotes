@@ -1,6 +1,9 @@
 # quotes
 A collection of influential quotes I appreciate.
 
+> "Down to Gehenna, or up to the Throne, He travels the fastest who travels alone." \
+—Rudyard Kipling (1917)
+
 > While jostling against all manner of people it has been impressed upon my mind that the successful ones are those who have a natural faculty for solving puzzles. Life is full of puzzles, and we are called upon to solve such as fate throws our way. \
 —Sam Loyd, Jr. (1927)
 
