@@ -1,7 +1,7 @@
 # quotes
 A collection of influential quotes I appreciate.
 
-> While jostling against all manner of people it has been impressed upon my mind that the successful ones are those who have a natural faculty for solving puzzles. Life is full of puzzles, and we are called upon to solve such as fate throws our way.
+> While jostling against all manner of people it has been impressed upon my mind that the successful ones are those who have a natural faculty for solving puzzles. Life is full of puzzles, and we are called upon to solve such as fate throws our way. \
 —Sam Loyd, Jr. (1927)
 
 > The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.\
